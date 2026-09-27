@@ -1,4 +1,4 @@
-const CACHE_NAME = "kash-v2";
+const CACHE_NAME = "bkash-v2";
 
 const FILES_TO_CACHE = [
   "./",
